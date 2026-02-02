@@ -1,4 +1,4 @@
-# Hi, I'm Ahmet Hamdi Özen 👋
+# Hey, I'm Ahmet Hamdi 👋
 
 **Junior AI Engineer**  
 Full-stack development and AI/ML systems with a focus on practical, production-oriented solutions.
