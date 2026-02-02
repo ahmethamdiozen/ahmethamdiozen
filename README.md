@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Ahmet Hamdi Özen 👋
 
-<!--
-**ahmethamdiozen/ahmethamdiozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior AI Engineer**  
+Full-stack development and AI/ML systems with a focus on practical, production-oriented solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus Areas
+- AI / Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- Full-stack backend-oriented development
+- Data-driven applications
+
+Currently working on **RAG-based systems** and deepening my understanding of modern AI pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+
+**Frameworks & Libraries**
+- FastAPI
+- Pydantic
+- PyTorch
+- OpenCV
+- Pandas
+- NumPy
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Tools & Environment**
+- Git
+- Linux Shell
+- Docker
+
+---
+
+## 📌 Featured Project
+
+### 🔹 RAG Project
+Building a Retrieval-Augmented Generation pipeline with modern AI tooling.
+
+👉 https://github.com/ahmethamdiozen/rag-project
+
+---
+
+## 📫 Contact
+- **LinkedIn:** https://linkedin.com/in/ahmethamdiozen  
+- **Email:** hamdiahmetozen@gmail.com
