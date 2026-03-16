@@ -1,98 +1,58 @@
 # Ahmet Hamdi Özen
-### Backend / Full-Stack Engineer
 
-Software engineer focused on backend development, distributed systems, and building practical production-style applications. Interested in scalable architectures, API design, and modern development workflows.
+### Junior Backend / Full-Stack Engineer
 
----
-
-## Focus Areas
-
-- Backend Development
-- Distributed Systems
-- REST API Design
-- Full-stack Applications
-- AI API Integrations (OpenAI, Claude)
-- Data-driven backend systems
+Building production-ready backend systems, distributed architectures, and full-stack applications. Focused on scalable services, event-driven systems, and clean API design.
 
 ---
 
-## Tech Stack
+## Key Skills
 
-### Languages
-- Python
-- JavaScript
-- TypeScript
-
-### Backend
-- FastAPI
-- Node.js
-- Express
-
-### Frontend
-- React
-
-### Databases & Caching
-- PostgreSQL
-- MySQL
-- Redis
-- Supabase
-
-### Messaging & Event Streaming
-- Kafka
-- RabbitMQ
-
-### DevOps & Tools
-- Git
-- Docker
-- Linux
-- AWS
-
-### AI Integration
-- OpenAI API
-- Claude API
-- Retrieval-Augmented Generation (RAG) integrations
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Distributed E-commerce Backend
-A microservice-based e-commerce backend built with event-driven architecture principles. Focused on service communication, asynchronous processing, and scalability patterns.
+### 🔹 Distributed E-commerce System
+Microservice-based backend with event-driven architecture. Handles asynchronous communication, scalability patterns, and service orchestration.
 
-**Tech Stack:**  
-Node.js • Kafka • RabbitMQ • Redis • PostgreSQL • Docker
-
-Repository:  
-https://github.com/ahmethamdiozen/ecommerce-distributed
+**Tech:** Node.js • Kafka • RabbitMQ • Redis • PostgreSQL • Docker  
+[Repository](https://github.com/ahmethamdiozen/ecommerce-distributed)
 
 ---
 
-### SaaS Backend Project
-A backend architecture for a SaaS application including authentication, modular structure, and production-style service organization.
+### 🔹 SaaS Backend Project
+Production-style backend for multi-tenant SaaS application. Includes authentication, modular structure, and clean API design.
 
-**Tech Stack:**  
-FastAPI • PostgreSQL • Redis • React • Docker
-
-Repository:  
-https://github.com/ahmethamdiozen/saas-project-backend
+**Tech:** FastAPI • PostgreSQL • Redis • Docker  
+[Repository](https://github.com/ahmethamdiozen/saas-project-backend)
 
 ---
 
-### RAG Integration Project
-A backend project focused on integrating LLM APIs with document retrieval pipelines. Emphasis on practical LLM usage rather than model training.
+### 🔹 RAG Integration Project
+Backend pipeline integrating LLM APIs (OpenAI, Claude) with document retrieval. Focus on practical AI usage and vector search.
 
-**Tech Stack:**  
-Python • FastAPI • OpenAI API • Vector Search • React • Docker
+**Tech:** Python • FastAPI • OpenAI API • Vector Search • Docker  
+[Repository](https://github.com/ahmethamdiozen/rag-project)
 
-Repository:  
-https://github.com/ahmethamdiozen/rag-project
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmethamdiozen&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmethamdiozen&layout=compact&theme=tokyonight)
 
 ---
 
 ## Contact
 
-**LinkedIn**  
-https://linkedin.com/in/ahmethamdiozen
-
-**Email**  
-hamdiahmetozen@gmail.com
+LinkedIn: [ahmethamdiozen](https://linkedin.com/in/ahmethamdiozen)  
+Email: hamdiahmetozen@gmail.com
