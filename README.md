@@ -1,6 +1,6 @@
 # Ahmet Hamdi Özen
 
-### Junior Backend / Full-Stack Engineer
+### Backend Focused Full-Stack Engineer
 
 Building production-ready backend systems, distributed architectures, and full-stack applications. Focused on scalable services, event-driven systems, and clean API design.
 
