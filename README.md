@@ -21,27 +21,24 @@ Building production-ready backend systems, distributed architectures, and full-s
 
 ## Featured Projects
 
-### 🔹 Distributed E-commerce System
+### 🔹 [Distributed E-commerce System](https://github.com/ahmethamdiozen/ecommerce-distributed)
 Microservice-based backend with event-driven architecture. Handles asynchronous communication, scalability patterns, and service orchestration.
 
 **Tech:** Node.js • Kafka • RabbitMQ • Redis • PostgreSQL • Docker  
-[Repository](https://github.com/ahmethamdiozen/ecommerce-distributed)
 
 ---
 
-### 🔹 SaaS Backend Project
+### 🔹 [SaaS Backend Project](https://github.com/ahmethamdiozen/saas-project-backend)
 Production-style backend for multi-tenant SaaS application. Includes authentication, modular structure, and clean API design.
 
 **Tech:** FastAPI • PostgreSQL • Redis • Docker  
-[Repository](https://github.com/ahmethamdiozen/saas-project-backend)
 
 ---
 
-### 🔹 RAG Integration Project
+### 🔹 [RAG Integration Project](https://github.com/ahmethamdiozen/rag-project)
 Backend pipeline integrating LLM APIs (OpenAI, Claude) with document retrieval. Focus on practical AI usage and vector search.
 
 **Tech:** Python • FastAPI • OpenAI API • Vector Search • Docker  
-[Repository](https://github.com/ahmethamdiozen/rag-project)
 
 ---
 
