@@ -1,7 +1,7 @@
 # Ahmet Hamdi Özen
-### Junior Backend / Full-Stack Engineer
+### Backend / Full-Stack Engineer
 
-Junior software engineer focused on backend development, distributed systems, and building practical production-style applications. Interested in scalable architectures, API design, and modern development workflows.
+Software engineer focused on backend development, distributed systems, and building practical production-style applications. Interested in scalable architectures, API design, and modern development workflows.
 
 ---
 
@@ -71,7 +71,7 @@ https://github.com/ahmethamdiozen/ecommerce-distributed
 A backend architecture for a SaaS application including authentication, modular structure, and production-style service organization.
 
 **Tech Stack:**  
-FastAPI • PostgreSQL • Redis • Docker
+FastAPI • PostgreSQL • Redis • React • Docker
 
 Repository:  
 https://github.com/ahmethamdiozen/saas-project-backend
@@ -82,7 +82,7 @@ https://github.com/ahmethamdiozen/saas-project-backend
 A backend project focused on integrating LLM APIs with document retrieval pipelines. Emphasis on practical LLM usage rather than model training.
 
 **Tech Stack:**  
-Python • FastAPI • OpenAI API • Vector Search • Docker
+Python • FastAPI • OpenAI API • Vector Search • React • Docker
 
 Repository:  
 https://github.com/ahmethamdiozen/rag-project
